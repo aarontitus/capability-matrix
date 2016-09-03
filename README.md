@@ -1,2 +1,2 @@
-# capability-matrix
+# VOAD Capability Matrix
 A VOAD/disaster recovery capability matrix based upon capability and phase.
